@@ -1,0 +1,11 @@
+Всего у меня получилось два коммита.
+
+Commits that exit in demo but dont exest in master:
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+
+Commits that exit in master but dont exest in demo:
+Merge remote-tracking branch 'origin/hat' NaFo61 7 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons NaFo61 17 minutes ago
+Merge remote-tracking branch 'origin/boots' into boots_buttons NaFo61 17 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
