@@ -10,4 +10,16 @@ Merge remote-tracking branch 'origin/buttons' into boots_buttons NaFo61 17 minut
 Merge remote-tracking branch 'origin/boots' into boots_buttons NaFo61 17 minutes ago
 fix readme Andrew Khodzhakhanov 29.06.2016 2:29
 
-это все
+
+Все комиты:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+v_1
+v_4
